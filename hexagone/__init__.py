@@ -1,0 +1,1 @@
+"""Hexagone Centreon Plugin package."""
