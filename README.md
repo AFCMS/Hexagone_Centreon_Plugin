@@ -1,4 +1,4 @@
- # Hexagone Centreon Plugin
+# Hexagone Centreon Plugin
 
 Plugin Centreon/Nagios en Python permettant de superviser la file d'attente des commandes d'une application e-commerce à partir d'un fichier JSON.
 
